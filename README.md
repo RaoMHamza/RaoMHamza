@@ -1,4 +1,3 @@
 # RaoMHamza
 
-# Atif Bhai ki jai
- # ghilam bhai ki jai
+mene sab ke push hata diye hain
